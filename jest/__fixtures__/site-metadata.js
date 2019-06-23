@@ -29,11 +29,11 @@ module.exports = {
         bio: 'Test bio',
         contacts: {
           email: '#',
-          telegram: '#',
+          linkedin: '#',
           twitter: '#',
+          instagram: '#',
           github: '#',
-          rss: '#',
-          vkontakte: '#'
+          rss: '#'
         }
       }
     }
