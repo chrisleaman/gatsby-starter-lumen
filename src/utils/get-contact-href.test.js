@@ -7,7 +7,7 @@ test('getContactHref', () => {
   expect(getContactHref('email', '#')).toBe('mailto:#');
   expect(getContactHref('vkontakte', '#')).toBe('https://vk.com/#');
   expect(getContactHref('instagram', '#')).toBe('https://instagram.com/#');
-  expect(getContactHref('linkedin', '#')).toBe('https://linkedin.com/#');
+  expect(getContactHref('linkedin', '#')).toBe('https://linkedin.com/in/#');
   expect(getContactHref('telegram', '#')).toBe('telegram:#');
   expect(getContactHref('rss', '#')).toBe('#');
 });
