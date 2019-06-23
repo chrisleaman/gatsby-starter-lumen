@@ -17,6 +17,10 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
+    {
+      label: 'CV',
+      path: '/pages/cv'
+    },
   ],
   author: {
     name: 'Chris Leaman',
