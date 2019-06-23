@@ -24,10 +24,10 @@ const getIcon = (name: string) => {
       icon = ICONS.RSS;
       break;
     case 'instagram':
-      icon = ICONS.instagram;
+      icon = ICONS.INSTAGRAM;
       break;
     case 'linkedin':
-      icon = ICONS.linkedin;
+      icon = ICONS.LINKEDIN;
       break;
     default:
       icon = {};
