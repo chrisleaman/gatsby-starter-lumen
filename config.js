@@ -3,11 +3,11 @@
 module.exports = {
   url: 'https://leaman.io',
   title: 'Chris Leaman',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'PhD student at UNSW Sydney Water Research Laboratory. Researching coastal erosion 🌊, remote sensing 🛰️ and early warning systems 🚨.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  disqusShortname: 'leamanio',
+  postsPerPage: 5,
+  googleAnalyticsId: 'UA-89983487-1',
   menu: [
     {
       label: 'Articles',
@@ -19,16 +19,16 @@ module.exports = {
     },
   ],
   author: {
-    name: 'John Doe',
+    name: 'Chris Leaman',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'PhD student at UNSW Sydney Water Research Laboratory. Researching coastal erosion 🌊, remote sensing 🛰️ and early warning systems 🚨.',
     contacts: {
-      email: '#',
-      linkedin: '#',
-      twitter: '#',
-      instagram: '#',
-      github: '#',
-      rss: '#'
+      email: 'chris@leaman.io',
+      linkedin: 'cleaman',
+      twitter: 'ckleaman',
+      instagram: 'chrisleaman',
+      github: 'chrisleaman',
+      rss: 'rss.xml'
     }
   }
 };
