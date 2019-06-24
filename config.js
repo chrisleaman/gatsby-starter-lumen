@@ -6,7 +6,7 @@ module.exports = {
   subtitle: 'PhD student at UNSW Sydney Water Research Laboratory. Researching coastal erosion 🌊, remote sensing 🛰️ and early warning systems 🚨.',
   copyright: '© All rights reserved.',
   disqusShortname: 'leamanio',
-  postsPerPage: 5,
+  postsPerPage: 4,
   googleAnalyticsId: 'UA-89983487-1',
   menu: [
     {
