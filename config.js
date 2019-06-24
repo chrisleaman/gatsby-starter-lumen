@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Chris Leaman',
     photo: '/photo.jpg',
-    bio: 'PhD student at UNSW Sydney Water Research Laboratory. Researching coastal erosion 🌊, remote sensing 🛰️ and early warning systems 🚨.',
+    bio: 'Chris Leaman is a PhD student at UNSW Sydney Water Research Laboratory, researching coastal erosion 🌊, remote sensing 🛰️ and early warning systems 🚨.',
     contacts: {
       email: 'chris@leaman.io',
       linkedin: 'cleaman',
