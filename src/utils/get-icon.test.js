@@ -1,4 +1,4 @@
-// @flow
+// @flow strict
 import getIcon from './get-icon';
 import { ICONS } from '../constants';
 
@@ -11,4 +11,10 @@ test('getIcon', () => {
   expect(getIcon('linkedin')).toEqual(ICONS.LINKEDIN);
   expect(getIcon('email')).toEqual(ICONS.EMAIL);
   expect(getIcon('rss')).toEqual(ICONS.RSS);
+  expect(getIcon('linkedin')).toEqual(ICONS.LINKEDIN);
+  expect(getIcon('instagram')).toEqual(ICONS.INSTAGRAM);
+  expect(getIcon('line')).toEqual(ICONS.LINE);
+  expect(getIcon('facebook')).toEqual(ICONS.FACEBOOK);
+  expect(getIcon('gitlab')).toEqual(ICONS.GITLAB);
+  expect(getIcon('weibo')).toEqual(ICONS.WEIBO);
 });
