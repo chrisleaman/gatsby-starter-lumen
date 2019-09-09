@@ -14,7 +14,7 @@ socialImage: "(/media/2019_09_10_coasts_and_ports/output-0.png"
 
 This was the first presentation I gave about my PhD work as part of the [2019 Coasts & Ports](https://coastsandports2019.com.au/) conference in Hobart, Tasmania. The slides I used are below as well as an outline of my talk.
 
-If you found this interesting or have any questions or ideas, please [reach out](chris@leaman.io)! 
+If you found this interesting or have any questions or ideas, please [reach out](mailto:chris@leaman.io)! 
 
 ![](/media/2019_09_10_coasts_and_ports/output-0.gif)
 - This drone shot shows some of the impacts from the 2016 storm which hit Australia's south-eastern coast.
