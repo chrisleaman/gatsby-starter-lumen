@@ -1,4 +1,4 @@
-// @flow
+// @flow strict
 import { ICONS } from '../constants';
 
 const getIcon = (name: string) => {
@@ -23,11 +23,23 @@ const getIcon = (name: string) => {
     case 'rss':
       icon = ICONS.RSS;
       break;
+    case 'linkedin':
+      icon = ICONS.LINKEDIN;
+      break;
     case 'instagram':
       icon = ICONS.INSTAGRAM;
       break;
-    case 'linkedin':
-      icon = ICONS.LINKEDIN;
+    case 'line':
+      icon = ICONS.LINE;
+      break;
+    case 'facebook':
+      icon = ICONS.FACEBOOK;
+      break;
+    case 'gitlab':
+      icon = ICONS.GITLAB;
+      break;
+    case 'weibo':
+      icon = ICONS.WEIBO;
       break;
     default:
       icon = {};
