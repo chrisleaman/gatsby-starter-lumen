@@ -24,6 +24,9 @@ const useSiteMetadata = () => {
                 line
                 gitlab
                 weibo
+                codepen
+                youtube
+                soundcloud
               }
             }
             menu {

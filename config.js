@@ -40,7 +40,10 @@ module.exports = {
       instagram: 'chrisleaman',
       line: '',
       gitlab: '',
-      weibo: ''
+      weibo: '',
+      codepen: '',
+      youtube: '',
+      soundcloud: '',
     }
   }
 };
